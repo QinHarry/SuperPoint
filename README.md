@@ -170,3 +170,6 @@ You will need to decide again whether you want to evaluate for viewpoint or illu
 
 ## Credits
 This implementation was developed by [Rémi Pautrat](https://github.com/rpautrat) and [Paul-Edouard Sarlin](https://github.com/Skydes). Please contact Rémi for any enquiry.
+
+## Troubshouting
+No CUDA_VISIBLE_DEVICES or TMPDIR: export CUDA_VISIBLE_DEVICES=0  export TMPDIR=/home/hao/paper/tmp
